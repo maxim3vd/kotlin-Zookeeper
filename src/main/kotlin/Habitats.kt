@@ -112,3 +112,12 @@ const val RABBIT = """Switching on the camera in the rabbit habitat...
  ]\      _\    /"\
 (" ~----( ~   Y.  )
 It looks like we will soon have more rabbits!"""
+
+val habitats = listOf(
+    CAMEL,
+    LION,
+    DEER,
+    GOOSE,
+    BAT,
+    RABBIT,
+)
